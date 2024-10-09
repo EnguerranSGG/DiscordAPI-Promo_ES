@@ -1,1 +1,1 @@
-# API-Promo
+# DiscordAPI-Promo
